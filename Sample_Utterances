@@ -1,0 +1,45 @@
+InfoRaum wo ist der Raum {Raum}
+InfoRaum wo ist der {Raum}
+InfoRaum kennst du den Raum {Raum}
+InfoRaum kennst du den {Raum}
+InfoRaum Ich weiß nicht wo der {Raum} ist
+InfoRaum Ich weiß nicht wo der Raum {Raum} ist
+BioProf wer ist {Name}
+BioProf sag mir wer {Name} ist
+BioProf kennst du {Name}
+InfoElevator wo ist der {Elevator}
+InfoElevator weißt du wo der {Elevator} ist
+InfoElevator wo lande ich mit dem {Elevator}
+InfoElevator wo komme ich mit dem {Elevator} hin
+InfoTheater gibt es in diesem Jahr eine {AG}
+InfoTheater was ist mit der {AG}
+InfoTheater gibt es eine {AG}
+GetWifi warum funktioniert das {WIFI} nicht
+GetWifi was ist mit dem {WIFI} los
+GetWifi ich brauche {WIFI}
+GetFood was gibt es heute in der {PlaceToEat}
+GetFood ich will heute in der {PlaceToEat} essen
+GetFood was gibt es in der {PlaceToEat} heute
+GetFood will heute in der {PlaceToEat} essen
+InfoLSH wann werden die Arbeiten aus der {LSH} ausgewertet
+InfoLSH was ist mit den arbeiten aus der {LSH}
+InfoLSH mich interessieren die ergebnisse aus der {LSH}
+InfoDef was sind {Begriff}
+InfoDef erkläre mir was {Begriff} sind
+InfoDef definiere {Begriff}
+InfoLecture war schon jemand bei allen Vorlesungen von {Vorlesung}
+InfoLecture was ist mit den Vorlesungen von {Vorlesung}
+InfoLecture muss ich heute zur Vorlesung von {Vorlesung}
+InfoLecture muss ich heute zu {Vorlesung}
+GetHymn wie macht das {Hymn}
+GetHymn wie klingt das {Hymn}
+GetHymn was ruft das {Hymn}
+InfoHome wie sieht es bei {Prof} zuhause aus
+InfoHome wie ist wohl die inneneinrichtung von {Prof}
+InfoHome kennst du das Haus von {Prof}
+GetFoodLater die {PlaceToEatLater} ist zu
+GetFoodLater wo kann ich nach {PlaceToEatLater} schluss noch etwas essen
+GetFoodLater ich habe hunger und die {PlaceToEatLater} ist schon zu
+InfoOrt was ist in {Ort} passiert
+InfoOrt stimmt es was man sich über {Ort} erzählt
+InfoOrt kennst du {Ort}
