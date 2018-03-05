@@ -1,0 +1,130 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Raum",
+          "type": "AMAZON.NUMBER"
+        }
+      ],
+      "intent": "InfoRaum"
+    },
+    {
+      "slots": [
+        {
+          "name": "Name",
+          "type": "Liste_Name"
+        }
+      ],
+      "intent": "BioProf"
+    },
+    {
+      "slots": [
+        {
+          "name": "Elevator",
+          "type": "Liste_Elevator"
+        }
+      ],
+      "intent": "InfoElevator"
+    },
+    {
+      "slots": [
+        {
+          "name": "AG",
+          "type": "Liste_AG"
+        }
+      ],
+      "intent": "InfoTheater"
+    },
+    {
+      "slots": [
+        {
+          "name": "WIFI",
+          "type": "Liste_WIFI"
+        }
+      ],
+      "intent": "GetWifi"
+    },
+    {
+      "slots": [
+        {
+          "name": "PlaceToEat",
+          "type": "Liste_PlaceToEat"
+        }
+      ],
+      "intent": "GetFood"
+    },
+    {
+      "slots": [
+        {
+          "name": "LSH",
+          "type": "Liste_LSH"
+        }
+      ],
+      "intent": "InfoLSH"
+    },
+    {
+      "slots": [
+        {
+          "name": "Begriff",
+          "type": "Liste_Begriff"
+        }
+      ],
+      "intent": "InfoDef"
+    },
+    {
+      "slots": [
+        {
+          "name": "Vorlesung",
+          "type": "Liste_Vorlesung"
+        }
+      ],
+      "intent": "InfoLecture"
+    },
+    {
+      "slots": [
+        {
+          "name": "Hymn",
+          "type": "Liste_Hymne"
+        }
+      ],
+      "intent": "GetHymn"
+    },
+    {
+      "slots": [
+        {
+          "name": "Prof",
+          "type": "Liste_Name"
+        }
+      ],
+      "intent": "InfoHome"
+    },
+    {
+      "slots": [
+        {
+          "name": "PlaceToEatLater",
+          "type": "Liste_PlaceToEatLater"
+        }
+      ],
+      "intent": "GetFoodLater"
+    },
+    {
+      "slots": [
+        {
+          "name": "Ort",
+          "type": "Liste_Ort"
+        }
+      ],
+      "intent": "InfoOrt"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}
